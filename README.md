@@ -1,4 +1,4 @@
-# ceasar-cipher
+# Caesar-cipher
 Caesar's cipher (Encryption-Decryption) in C
 
 
